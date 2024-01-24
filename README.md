@@ -1,0 +1,1 @@
+## This is an AI personal trainer and nutrition built with OpenAI assistants API
